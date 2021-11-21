@@ -25,7 +25,7 @@ Addditionally, multiple different models are trained and tested in this notebook
 ## Employees
 Using the employees.txt dataset file, the following Python Notebooks will be used.
 
-### Calculate gross pay
+### Calculate Gross Pay
 This program will calculate the gross pay for employees. Any hours worked over 30 are paid at time and a half (1.5 times the regular hourly rate).
 
 ### Employees
