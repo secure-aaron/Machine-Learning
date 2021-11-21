@@ -32,7 +32,7 @@ This program will calculate the gross pay for employees. Any hours worked over 3
 PART A:
 This program displays the records that are in the employees.txt file
 
-PART B
+PART B:
 This program allows the user to search the employees.txt file for records matching an employee name.
 
 ## Project
