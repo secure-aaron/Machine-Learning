@@ -1,5 +1,6 @@
 # Machine-Learning
 This repository contains Machine Learning code using Pandas DataFrame objects.
+For the final project, please click here: https://github.com/secure-aaron/Machine-Learning/blob/main/Project/Project.ipynb
 
 ## Dataset Analysis
 Using the train.csv dataset file, the following Python Notebooks will be used.
